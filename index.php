@@ -113,6 +113,9 @@
                         <a href="index.html"><img src="./images/logo.png" alt=""></a>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae nobis deserunt delectus est ipsa quas praesentium, ducimus unde pariatur consectetur libero ea modi assumenda eum voluptate ab excepturi eos consequatur?</p>
                     </div>
+                    <a href="login.php">
+                        <button class="button">Admin</button>
+                    </a>
                 </div>
                 <div class="col-lg-6 col-sm-12">
                     <div class="right-footer">
